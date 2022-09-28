@@ -1,3 +1,3 @@
 # git_test
 
-이 repository는 실습을 위한 repository
+<h1> 웨어러블기기를 통한 데이터 수집 및 분석 </h1>
