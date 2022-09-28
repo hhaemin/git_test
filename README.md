@@ -1,2 +1,3 @@
 # git_test
-git 실습
+
+이 repository는 실습을 위한 repository
